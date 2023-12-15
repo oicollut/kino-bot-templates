@@ -50,7 +50,7 @@
   }, {
     "id" : "/ReturnInfo",
     "x" : 1850,
-    "y" : 2723
+    "y" : 2044
   }, {
     "id" : "/ReturnTicket",
     "x" : 290,
@@ -87,5 +87,9 @@
     "id" : "/RateBot",
     "x" : 3410,
     "y" : 3781
+  }, {
+    "id" : "/ReturnInfo/ReturnIssues",
+    "x" : 290,
+    "y" : 550
   } ]
 }
