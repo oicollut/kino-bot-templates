@@ -2,7 +2,7 @@
   "positions" : [ {
     "id" : "/Start",
     "x" : 290,
-    "y" : 673
+    "y" : 1276
   }, {
     "id" : "/Hello",
     "x" : 1070,
@@ -14,7 +14,7 @@
   }, {
     "id" : "/NoMatch",
     "x" : 290,
-    "y" : 2961
+    "y" : 724
   }, {
     "id" : "/Match",
     "x" : 290,
@@ -39,5 +39,53 @@
     "id" : "/BackToBusiness",
     "x" : 1070,
     "y" : 2961
+  }, {
+    "id" : "/Operator",
+    "x" : 1070,
+    "y" : 2453
+  }, {
+    "id" : "/HowCanIHelp",
+    "x" : 1070,
+    "y" : 1430
+  }, {
+    "id" : "/ReturnInfo",
+    "x" : 1850,
+    "y" : 2723
+  }, {
+    "id" : "/ReturnTicket",
+    "x" : 290,
+    "y" : 2517
+  }, {
+    "id" : "/ReturnIssues | fromState = \"/ReturnTicket\"",
+    "x" : 290,
+    "y" : 1956
+  }, {
+    "id" : "/IssueTrue",
+    "x" : 290,
+    "y" : 3025
+  }, {
+    "id" : "/AnythingElse?",
+    "x" : 2630,
+    "y" : 2862
+  }, {
+    "id" : "/Timetable",
+    "x" : 1850,
+    "y" : 3177
+  }, {
+    "id" : "/MovieInformation",
+    "x" : 3410,
+    "y" : 1621
+  }, {
+    "id" : "/Locations",
+    "x" : 3410,
+    "y" : 2375
+  }, {
+    "id" : "/BuyTicket",
+    "x" : 3410,
+    "y" : 3403
+  }, {
+    "id" : "/RateBot",
+    "x" : 3410,
+    "y" : 3781
   } ]
 }
